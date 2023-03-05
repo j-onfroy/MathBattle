@@ -1,5 +1,5 @@
-"""# MathBattle"""
-"""This is game MathBattle clone"""
+# MathBattle
+This is game MathBattle clone
 import java.util.Random;
 import java.util.Scanner;
 
